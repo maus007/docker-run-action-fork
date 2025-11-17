@@ -1,5 +1,5 @@
 # action.yml
-name: 'Docker Run Action'
+name: 'Docker Run Action-fork'
 description: 'Run a command in a new container'
 inputs:
   image:
